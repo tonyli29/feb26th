@@ -20,3 +20,6 @@ for event in events:
     if event['room_id'] == room201['id']:
         if event['attendees'] <= room201['capacity']:
             print('ok')
+
+
+# girej
